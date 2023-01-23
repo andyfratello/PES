@@ -1,5 +1,5 @@
-# PES
-📱 Exercicis de Projectes d'Enginyeria del Software (PES) Q1 - UPC FIB
+# PES - GreenWheel
+📱 GreenWheel - Projecte de PES Tardor 2022 - FIB UPC
 
 ## Codi:
 * [Frontend](https://github.com/Green-Wheel/MobileAPP)
