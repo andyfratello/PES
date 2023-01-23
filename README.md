@@ -6,8 +6,8 @@
 * [Backend](https://github.com/Green-Wheel/Backend)
 
 ## Documentació:
-* [Incepció 1](https://github.com/andyfratello/PES/tree/main/2.INCEPTION/Inception%201st%20phase)
-* [Incepció 2](https://github.com/andyfratello/PES/tree/main/2.INCEPTION/Inception%202nd%20phase)
+* [Inception 1](https://github.com/andyfratello/PES/tree/main/2.INCEPTION/Inception%201st%20phase)
+* [Inception 2](https://github.com/andyfratello/PES/tree/main/2.INCEPTION/Inception%202nd%20phase)
 * [Sprint 1](https://github.com/andyfratello/PES/tree/main/3.SPRINTS/Sprint%201)
 * [Sprint 2](https://github.com/andyfratello/PES/tree/main/3.SPRINTS/Sprint%202)
 * [Sprint 3](https://github.com/andyfratello/PES/tree/main/3.SPRINTS/Sprint%203)
@@ -22,4 +22,4 @@
 * [Andreu Orensanz](https://github.com/andyfratello)
 
 ##
-- Nota: 10
+Nota: 10
